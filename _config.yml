@@ -1,6 +1,6 @@
 name: moods
 favicon: null
-layout_spectrum: 0.51207
+layout_spectrum: 1
 typography_spectrum: 0.94572
 title: Moods
 cta:
@@ -24,6 +24,6 @@ color:
     - '#bdb6b1'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
