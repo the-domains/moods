@@ -1,6 +1,6 @@
 name: moods
 favicon: null
-layout_spectrum: 0.50189
+layout_spectrum: 0.00316
 typography_spectrum: 0.94572
 title: Moods
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#efefe5'
-    - '#8e8e8e'
-    - '#8fb9a5'
-    - '#5c5c5c'
-    - '#010000'
-  brandStrength: 1
+    - '#e9e2dd'
+    - '#56524f'
+    - '#373330'
+    - '#888481'
+    - '#bdb6b1'
+  brandStrength: 0
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 1
