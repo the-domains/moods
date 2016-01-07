@@ -2,6 +2,7 @@ name: moods
 favicon: null
 layout_spectrum: 0.7936566392891109
 typography_spectrum: 0.5652252002619207
+title: Moods
 cta:
   domain: null
   bucket: null
